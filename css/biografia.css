@@ -60,26 +60,46 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 30px;
 }
 
-.card1{
-    margin-left: 50px;
-    width: 1150px;
+.carbio{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
 }
-
-p{
-    font-size: 30px;
-    font-family: Pacifico;
-}
-
 .tamañoI{
-    width: 630px;
-    height: 500px;
-    margin: 20px;
+    width: 530px;
+    height: 350px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.tamañoI2{
+    width: 530px;
+    height: 460px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.tamañoI3{
+    width: 530px;
+    height: 405px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.tamañoI4{
+    width: 530px;
+    height: 520px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.carpar{
+    width: 30%;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: pacifico;
 }
 
 footer{
